@@ -98,27 +98,31 @@ student-admin-panel/
 
 All commands, installations, deployment steps, and architecture details are available inside the **GitHub Wiki**:
 
-📘 **Visit Wiki →** *Add your Wiki URL here*
+📘 **Visit Wiki →** *https://github.com/Swinalwaghmare/student-admin-panel/wiki*
 
 Wiki includes:
 
 * Getting Started
-* Installation
+* Architecture 
 * Backend Guide
 * Frontend Guide
-* Deployment Guide
-* Troubleshooting
-* Architecture Overview
-* API Documentation
-* FAQ
 
 ---
 
 ## 🖼️ Screenshots
-> Dashboard
-> Student List
-> Analytics
+### 🎬 Dashboard
+<img src="images/dashboard.png" alt="Dashboard" />
 
+### 📃 Student List
+<img src="images/student-list.png" alt="Student List" />
+
+### ➕ Add Student
+<img src="images/add-student.png" alt="Student Add" />
+
+### 📊 Analytics
+<img src="images/analytics.png" alt="Analytics" />
+
+---
 
 ## 🤝 **Contributing**
 
