@@ -1,7 +1,7 @@
 # 🎓 EduTrack Pro — Student Admin Panel
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-11-blue?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=openjdk" />
   <img src="https://img.shields.io/badge/Spring%20Boot-2.6.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-UI-EA1F62?style=for-the-badge&logo=streamlit" />
