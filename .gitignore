@@ -1,0 +1,66 @@
+# -------------------------------------------------------------------
+# Terraform state files — NEVER commit these
+# -------------------------------------------------------------------
+*.tfstate
+*.tfstate.*
+terraform.tfstate
+terraform.tfstate.backup
+
+# Local .terraform directory (plugins, providers, modules cache)
+.terraform/
+.terraform.lock.hcl
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Sensitive variable files
+*.tfvars
+*.tfvars.json
+secrets.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Module archives
+*.zip
+*.tar.gz
+
+# Terraform plan output files
+*.plan
+plan.out
+
+# -------------------------------------------------------------------
+# IDE / Editor specific files
+# -------------------------------------------------------------------
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# IntelliJ / JetBrains
+.idea/
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+
+# -------------------------------------------------------------------
+# Operating System files
+# -------------------------------------------------------------------
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux
+*~
