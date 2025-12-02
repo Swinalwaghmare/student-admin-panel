@@ -1,5 +1,5 @@
 # 🎓 EduTrack Pro — Student Admin Panel
-
+<!--
 <p align="left">
   <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=openjdk" />
   <img src="https://img.shields.io/badge/Spring%20Boot-2.6.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Plotly-Charts-3F4F75?style=for-the-badge&logo=plotly" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
 </p>
-
+-->
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" />
@@ -23,9 +23,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/streamlit/streamlit.png" height="90" />
 </p> -->
 
----
-
-## 🌟 Overview
 
 **EduTrack Pro** is a modern Student Management System combining a **Spring Boot backend** with a **Streamlit frontend**, delivering a dark glassmorphism UI, real-time analytics, and seamless CRUD operations.
 This project is built for scalability, deployment readiness, and beautiful user experience.
